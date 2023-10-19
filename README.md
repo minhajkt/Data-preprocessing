@@ -1,16 +1,16 @@
 # Data-preprocessing
 
 In this project a dataset is taken to acount and preprocessing is done on it.
-The main objective is to desing and implement a robust data preprocessing system which is can handle 
+The main objective is to design and implement a robust data preprocessing system which can handle 
 common issues like missing values, outliers, inconsistent formatting, and noise.
 
 ## Data Exploration
-The fiven data is first explred and unique values and found.
-Statsitical analysis ont he data is done.
+The given data is first explored and unique values and found.
+Statsitical analysis on the data is done.
 
 ## Data Cleaning
 The misisng data are found and they are either replaced with mean, mode or median or
-removed from teh dataset.
+removed from the dataset.
 Age with values 0 are replaced by'NaN'.
 
 ## Data Analysis
